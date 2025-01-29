@@ -56,11 +56,6 @@ http://127.0.0.1:5000/
 2. The YOLOv8 model detects objects in the image.
 3. Processed images are displayed and saved in the `results/` folder.
 
-## 🔥 Demo
-🚀 **Coming soon!**
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## 📜 License
 This project is licensed under the MIT License.
